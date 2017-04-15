@@ -1,0 +1,34 @@
+{
+    "intents": [
+        {
+            "intent": "HelloPokemonIntent"
+        },
+        {
+            "intent": "MyLevelIntent"
+        },
+        {
+            "intent": "RandomNumberIntent",
+            "slots": [
+                {
+                    "name": "num",
+                    "type": "AMAZON.NUMBER"
+                }
+            ]
+        },
+        {
+            "intent": "PlayAGameIntent"
+        },
+        {
+            "intent": "NoIntent"
+        },
+        {
+            "intent": "BeginJourneyChoiceIntent",
+            "slots": [
+                {
+                    "name": "choice",
+                    "type": "LIST_OF_STARTING_POKEMONS"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "app_function": "i_am_a_pokemon.app", 
+        "s3_bucket": "zappa-fl3ollor2"
+    }
+}

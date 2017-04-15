@@ -1,0 +1,24 @@
+HelloPokemonIntent hello pokemon
+HelloPokemonIntent hello bulbasaur
+HelloPokemonIntent hello charmander
+HelloPokemonIntent hello pikachu
+HelloPokemonIntent hello squirtle
+HelloPokemonIntent hello
+HelloPokemonIntent hi
+
+MyLevelIntent what is the level
+MyLevelIntent what is my level
+MyLevelIntent level
+MyLevelIntent what is the level of my pikachu
+
+RandomNumberIntent {num}
+
+PlayAGameIntent play
+PlayAGameIntent play again
+
+NoIntent no
+NoIntent nope
+NoIntent nein
+
+BeginJourneyChoiceIntent {choice}
+BeginJourneyChoiceIntent i choose you {choice}
